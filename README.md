@@ -1,13 +1,11 @@
 # Youth Unemployment Dynamics: Panel GMM Estimation in Europe and Asia
 
 **Author**: Wang Feng  
-**Degree**: M.Sc. in Applied Economics  
-**University**: Universitat Autònoma de Barcelona (UAB)  
 **Date**: 2025  
 
 ## Project Overview
 
-This repository contains the Stata code and documentation for my master's thesis:  
+This repository contains the Stata code and documentation for the thesis:  
 **"Macroeconomic Shocks, Policy Drivers, and Youth Unemployment Dynamics: Panel Evidence from European and Asian Countries."**
 
 The study analyzes macroeconomic factors such as inflation, GDP growth, FDI, interest rates, and exchange rates, and their effects on youth unemployment across 10 countries (Europe and Asia) from 1991 to 2023.
